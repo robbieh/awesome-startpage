@@ -65,6 +65,7 @@
 - [Jaredk3nt's homepage](https://github.com/Jaredk3nt/homepage) - Custom homepage for use locally in browser.
 - [Minimal-StartPage](https://github.com/Nimplex/Minimal-StartPage) - Minimalistic light/darkish startpage
 - [Modular Startpage](https://github.com/timothypholmes/startup-page) - Grid startpage with many different component panels.
+- [N3WT48](https://github.com/robbieh/N3WT48) - A New Tab page in cyberpunk style. Can be static or hosted.
 - [null](https://github.com/sadparadiseinhell/null) - Another one simple startpage.
 - [search](https://github.com/l0bsters/search) - Search offers you an tangle of nodes for your bookmarks.
 - [StartOS](https://github.com/Jaredk3nt/startos) - A different take on startpages. StartOS will bring you back the 90s.
